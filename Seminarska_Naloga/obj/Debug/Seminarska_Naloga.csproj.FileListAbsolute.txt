@@ -1,0 +1,17 @@
+C:\Users\Nino PR\Documents\Visual Studio 2015\Projects\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.exe.config
+C:\Users\Nino PR\Documents\Visual Studio 2015\Projects\Seminarska_Naloga_PRO2\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.csprojResolveAssemblyReference.cache
+C:\Users\Nino PR\Documents\Visual Studio 2015\Projects\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.exe
+C:\Users\Nino PR\Documents\Visual Studio 2015\Projects\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.pdb
+C:\Users\Nino PR\Documents\Visual Studio 2015\Projects\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Zival.dll
+C:\Users\Nino PR\Documents\Visual Studio 2015\Projects\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Zival.pdb
+C:\Users\Nino PR\Documents\Visual Studio 2015\Projects\Seminarska_Naloga_PRO2\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.exe
+C:\Users\Nino PR\Documents\Visual Studio 2015\Projects\Seminarska_Naloga_PRO2\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.pdb
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.exe.config
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.exe
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Seminarska_Naloga.pdb
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\bin\Debug\Zival.pdb
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.csproj.CopyComplete
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.exe
+C:\Users\admin\Downloads\PRO2_SN\Seminarska_Naloga_PRO2\Seminarska_Naloga\obj\Debug\Seminarska_Naloga.pdb
